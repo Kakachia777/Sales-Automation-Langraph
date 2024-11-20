@@ -1,0 +1,6 @@
+langgraph
+litellm
+hubspot-api-client
+colorama
+python-dotenv
+bs4
