@@ -71,8 +71,8 @@ graph TD
 
 1. **Clone & Setup**
 ```bash
-git clone https://github.com/yourusername/ai-sales-outreach.git
-cd ai-sales-outreach
+git clone https://github.com/Kakachia777/Sales-Automation-Langraph.git
+cd Sales-Automation-Langraph
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -152,9 +152,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - [@Kakachia777](https://twitter.com/kakachia777) - Beka.kakachia777@gmail.com
 
-Project Link: [https://github.com/yourusername/ai-sales-outreach](https://github.com/yourusername/ai-sales-outreach)
+Project Link: [https://github.com/Kakachia777/Sales-Automation-Langraph](https://github.com/Kakachia777/Sales-Automation-Langraph)
 
 ## 🙏 Acknowledgments
 
